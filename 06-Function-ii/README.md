@@ -1,4 +1,4 @@
-# Advanced Functions (C++) vs Functions with Default & Keyword Arguments (Python)
+# Day 6: Advanced Functions C++ vs Python
 
 This folder demonstrates advanced usage of functions in C++ and Python, focusing on flexibility, reusability, and clean function design.
 
