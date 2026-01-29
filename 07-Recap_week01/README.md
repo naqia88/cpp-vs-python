@@ -10,7 +10,7 @@ Week 1 covered the foundational building blocks of programming in both C++ and P
 - **Conditionals & Loops (Day 3):** Controlling program flow with `if`, `else`, `elif` (Python) or `switch` (C++), and iterating with `for` and `while` loops.  
 - **Arrays & Lists (Day 4):** Storing multiple data items using arrays in C++ and lists in Python.  
 - **Functions (Day 5):** Writing reusable blocks of code for modularity; understanding function declaration, definition, and return values.  
-- **Advanced Functions (Day 6):** Function overloading in C++, and `*args`/`**kwargs` in Python for flexible argument handling.  
+- **Advanced Functions (Day 6):** Function overloading in C++, and in Python for flexible argument handling.  
 
 On Day 7, all these concepts are combined in a **single coding challenge** that calculates the **average, highest, and lowest marks of students** using loops, conditionals, arrays/lists, and functions/methods. This consolidates the full Week 1 learning.
 
@@ -19,7 +19,6 @@ On Day 7, all these concepts are combined in a **single coding challenge** that 
 - Consolidate **all Week 1 concepts** in a single program  
 - Practice **loops, conditionals, arrays/lists, functions, and I/O operations**  
 - Understand the differences in implementation between C++ and Python  
-- Optional: Extend with **recursion or lambda** for additional practice  
 
 ## Coding Challenge: Student Marks Analyzer
 
@@ -30,8 +29,7 @@ On Day 7, all these concepts are combined in a **single coding challenge** that 
 3. Compute the **average marks**.  
 4. Identify the **highest and lowest scoring students**.  
 5. Use **functions/methods** for calculations.  
-6. Use **loops and conditionals**.  
-7. Optional: Use **lambda functions** (Python) or equivalent in C++.  
+6. Use **loops and conditionals**.
 
 ## Contents
 
