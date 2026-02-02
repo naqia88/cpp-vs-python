@@ -1,4 +1,4 @@
-Day 09: Strings C++ vs Strings Python
+# Day 09: Strings C++ vs Strings Python
 
 This folder contains C++ and Python examples demonstrating how text data is stored, accessed, and manipulated in both languages.
 
