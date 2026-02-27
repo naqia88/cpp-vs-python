@@ -1,4 +1,4 @@
-# Linked List (C++) vs Linked List (Python)
+# Linked List in C++ vs in Python
 
 This folder contains C++ and Python examples demonstrating how a Singly Linked List works using dynamic memory allocation and node-based connections, strengthening core Data Structures and Algorithms (DSA) understanding.
 
